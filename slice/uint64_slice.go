@@ -1,4 +1,4 @@
-package types
+package slice
 
 type Uint64Slice []uint64
 

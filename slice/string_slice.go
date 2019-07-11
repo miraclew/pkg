@@ -1,4 +1,4 @@
-package types
+package slice
 
 type StringSlice []string
 
